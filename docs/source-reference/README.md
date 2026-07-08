@@ -8,7 +8,7 @@ These files were incorporated into the `simple-website-examples` documentation r
 
 | File | Purpose |
 |---|---|
-| `full-project-referencev1.0.md` | Detailed full-series reference for Projects 1–19 from the earlier project-set root. |
+| `full-project-reference.md` | Detailed full-series reference for Projects 1–19 from the earlier project-set root. |
 | `master-repo-README.md` | Earlier master/root README draft for the full series. |
 | `README-template.md` | Template used for per-project README structure. |
 | `simple-website-series-full-reference.md` | Refined full-series reference draft. |

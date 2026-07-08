@@ -2,7 +2,12 @@
 
 All notable changes to this documentation repo are documented in this file.
 
-## [1.0.1] - Unreleased
+## [1.0.2] - 2026-07-07
+
+### Fixed
+- Corrected the source-reference index to point to `full-project-reference.md` instead of `full-project-referencev1.0.md`.
+
+## [1.0.1] - 2026-07-07
 
 ### Added
 - Added preserved source reference documents under `docs/source-reference/`.
