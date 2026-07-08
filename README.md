@@ -80,6 +80,7 @@ See also: [Naming history](docs/naming-history.md)
 - [Repository descriptions](docs/repository-descriptions.md)
 - [Naming history](docs/naming-history.md)
 - [Source reference documents](docs/source-reference/README.md)
+- [README template](docs/templates/README-template.md)
 
 ## Why the hub plus separate example repos?
 
@@ -119,6 +120,6 @@ This avoids turning one repository into a mixed archive of unrelated stages, whi
 
 ## Version
 
-Current hub version: `v1.1.0`
+Current hub version: `v1.1.1`
 
-The initial organized hub documentation started at `v1.0.0`. Patch versions `v1.0.1` through `v1.0.3` preserved source-reference documents and refined the full project reference. Version `v1.1.0` is a documentation and repository-packaging update that adopts the shorter `simple-website-##-topic` repo naming pattern, adds naming-history documentation, updates cross-repo GitHub links, and keeps the source-reference material synchronized with the latest `v1.0.3` documentation.
+The initial organized hub documentation started at `v1.0.0`. Patch versions `v1.0.1` through `v1.0.3` preserved source-reference documents and refined the full project reference. Version `v1.1.0` is a documentation and repository-packaging update that adopts the shorter `simple-website-##-topic` repo naming pattern, adds naming-history documentation, updates cross-repo GitHub links, and keeps the source-reference material synchronized with the latest `v1.0.3` documentation. Version `v1.1.1` is a cleanup update that moves the reusable README template into `docs/templates/` and normalizes Markdown line endings.

@@ -4,6 +4,13 @@ All notable changes to the Simple Website Examples hub are documented in this fi
 
 This project follows semantic-style version numbers such as `v1.0.0`.
 
+## [1.1.1] - 2026-07-08
+
+### Changed
+- Moved the reusable README template from `docs/source-reference/` to `docs/templates/`.
+- Updated documentation references to point to the README template's new location.
+- Normalized remaining Markdown files to Windows CRLF line endings for consistency.
+
 ## [1.1.0] - 2026-07-07
 
 ### Added

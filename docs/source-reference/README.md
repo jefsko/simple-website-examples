@@ -10,8 +10,15 @@ The files in this folder are retained so useful planning, template, and full-ser
 |---|---|
 | `full-project-reference.md` | Detailed full-series reference for Projects 1-19 from the earlier project-set root, carried forward with the latest v1.0.3 refinements. |
 | `master-repo-README.md` | Earlier master/root README draft for the full series. |
-| `README-template.md` | Template used for per-project README structure. |
 | `simple-website-series-full-reference.md` | Refined full-series reference draft from the earlier project-set root. |
+
+## Reusable templates
+
+The reusable README template was moved out of `docs/source-reference/` and into `docs/templates/` in `v1.1.1` because it is an active reusable template, not a preserved source-reference document.
+
+| File | Purpose |
+|---|---|
+| [`../templates/README-template.md`](../templates/README-template.md) | Template used for per-project README structure. |
 
 ## Original Project 19 reference files
 
