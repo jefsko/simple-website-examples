@@ -2,6 +2,12 @@
 
 All notable changes to this documentation repo are documented in this file.
 
+## [1.0.3] - 2026-07-07
+
+### Changed
+- Refined `docs/source-reference/full-project-reference.md` by combining the clearer summary wording from the updated reference file with the more detailed project descriptions from the existing version.
+- Standardized the project summary formatting so each project uses a consistent `Builds on:` section.
+
 ## [1.0.2] - 2026-07-07
 
 ### Fixed

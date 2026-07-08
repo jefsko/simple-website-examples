@@ -2,15 +2,15 @@
 
 ## Summary
 
-This series is a sequence of simple, incremental website projects designed as minimal base reference examples.
+This series consists of a sequence of simple, incremental website projects designed as **minimal base reference examples**.
 
 Each project:
-- Builds directly on the previous one
-- Introduces a small number of new concepts
-- Keeps implementation intentionally simple and readable
-- Focuses on understanding over completeness
+- Builds directly on the previous project
+- Introduces one or a small number of new concepts
+- Keeps implementation intentionally simple and easy to understand
+- Focuses on clarity over completeness
 
-The goal is not to build production-ready applications, but to clearly demonstrate how websites work, step by step.
+The goal is not to build production-ready applications or systems, but to provide a **clear, step-by-step understanding of how websites work**.
 
 ---
 
@@ -43,7 +43,8 @@ Adds supporting website files.
 What it demonstrates:
 Metadata, robots.txt, and sitemap.xml.
 
-Builds on Project 1 by introducing basic site completeness.
+Builds on:
+Project 1 by introducing basic site completeness.
 
 ---
 
@@ -54,29 +55,32 @@ Introduces CSS and JavaScript.
 What it demonstrates:
 Separation of structure (HTML), style (CSS), and behavior (JavaScript).
 
-Builds on Project 2 by adding styling and scripting.
+Builds on:
+Project 2 by adding styling and scripting.
 
 ---
 
 ## Project 4 — Multi-Page Website
 What it is:
-Introduces multiple pages.
+Adds multiple pages.
 
 What it demonstrates:
 Navigation and linking between pages.
 
-Builds on Project 3 by adding page-to-page navigation.
+Builds on:
+Project 3 by introducing page-to-page navigation.
 
 ---
 
 ## Project 5 — Website Maintenance Basics
 What it is:
-Introduces organized file structure.
+Introduces an organized file structure.
 
 What it demonstrates:
 Separation of CSS files and maintainability concepts.
 
-Builds on Project 4 by improving structure and organization.
+Builds on:
+Project 4 by improving structure and organization.
 
 ---
 
@@ -87,7 +91,8 @@ Introduces forms.
 What it demonstrates:
 Basic user input handling.
 
-Builds on Project 5 by adding interactivity.
+Builds on:
+Project 5 by adding interactivity.
 
 ---
 
@@ -96,9 +101,10 @@ What it is:
 Adds validation.
 
 What it demonstrates:
-Client-side form validation.
+Client-side form validation logic.
 
-Builds on Project 6 by expanding form functionality.
+Builds on:
+Project 6 by expanding form functionality.
 
 ---
 
@@ -109,7 +115,8 @@ Introduces images.
 What it demonstrates:
 Image usage and file organization.
 
-Builds on Project 7 by adding visual media.
+Builds on:
+Project 7 by adding visual media.
 
 ---
 
@@ -120,7 +127,8 @@ Introduces responsiveness.
 What it demonstrates:
 Basic layout changes for different screen sizes.
 
-Builds on Project 8 by adapting layouts.
+Builds on:
+Project 8 by adapting layouts.
 
 ---
 
@@ -131,7 +139,8 @@ Expands metadata.
 What it demonstrates:
 Meta tags and favicon usage.
 
-Builds on Project 9 by improving page metadata.
+Builds on:
+Project 9 by improving page metadata.
 
 ---
 
@@ -142,7 +151,8 @@ Introduces accessibility.
 What it demonstrates:
 Labels, alt text, and meaningful links.
 
-Builds on Project 10 by improving usability.
+Builds on:
+Project 10 by improving usability.
 
 ---
 
@@ -153,7 +163,8 @@ Improves navigation.
 What it demonstrates:
 Active states, hover/focus states, and usability improvements.
 
-Builds on Project 11 by refining user experience.
+Builds on:
+Project 11 by refining user experience.
 
 ---
 
@@ -164,7 +175,8 @@ Expands metadata further.
 What it demonstrates:
 Open Graph tags, robots directives, and author metadata.
 
-Builds on Project 12 by improving external representation.
+Builds on:
+Project 12 by improving external representation.
 
 ---
 
@@ -173,9 +185,10 @@ What it is:
 Improves JavaScript structure.
 
 What it demonstrates:
-Organized functions, event handling, and structure.
+Organized functions, event handling, and readable structure.
 
-Builds on Project 13 by improving code clarity.
+Builds on:
+Project 13 by improving code clarity.
 
 ---
 
@@ -186,7 +199,8 @@ Adds more form inputs.
 What it demonstrates:
 Textarea, select, checkbox, and radio inputs.
 
-Builds on Project 14 by expanding input types.
+Builds on:
+Project 14 by expanding input types.
 
 ---
 
@@ -197,7 +211,8 @@ Improves accessibility further.
 What it demonstrates:
 Skip links, focus states, and refined accessibility patterns.
 
-Builds on Project 15 by strengthening accessibility.
+Builds on:
+Project 15 by strengthening accessibility.
 
 ---
 
@@ -208,7 +223,8 @@ Improves responsiveness.
 What it demonstrates:
 Multiple breakpoints and refined layout adjustments.
 
-Builds on Project 16 by enhancing layout flexibility.
+Builds on:
+Project 16 by enhancing layout flexibility.
 
 ---
 
@@ -219,7 +235,8 @@ Introduces richer media.
 What it demonstrates:
 Audio, video, figure/figcaption, and embedded content.
 
-Builds on Project 17 by expanding media capabilities.
+Builds on:
+Project 17 by expanding media capabilities.
 
 ---
 
@@ -230,7 +247,8 @@ Documentation project.
 What it demonstrates:
 How to understand, navigate, and use the full series.
 
-Builds on all previous projects by explaining them as a complete system.
+Builds on:
+All previous projects by explaining them as a complete system.
 
 ---
 
