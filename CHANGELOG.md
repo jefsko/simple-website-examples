@@ -4,6 +4,24 @@ All notable changes to the Simple Website Examples hub are documented in this fi
 
 This project follows semantic-style version numbers such as `v1.0.0`.
 
+## [1.1.2] - 2026-07-08
+
+### Added
+- Added `docs/source-reference/series-reference.md` as the curated source-reference overview for the full Simple Website Examples series.
+- Added archive index files under `docs/source-reference/archive/`.
+
+### Changed
+- Consolidated the overlapping full-series source-reference material into `docs/source-reference/series-reference.md`.
+- Updated the hub README and source-reference index to point to the new curated series reference.
+
+### Reorganized
+- Moved earlier full-series source-reference inputs under `docs/source-reference/archive/series-reference-sources/`.
+- Moved original Project 19 preserved files under `docs/source-reference/archive/original-project-19/`.
+
+### Notes
+- No preserved source-reference material was deleted.
+- The archived files may contain older names or placeholder references and are retained for traceability.
+
 ## [1.1.1] - 2026-07-08
 
 ### Changed

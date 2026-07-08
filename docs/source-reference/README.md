@@ -2,38 +2,37 @@
 
 This folder preserves source/reference documents from earlier project-set layouts and earlier documentation packaging.
 
-The files in this folder are retained so useful planning, template, and full-series reference material is not lost while the active hub documentation evolves.
+The active current hub documentation remains the primary documentation. Source-reference files provide background material, traceability, and preserved historical context.
 
 ## Current source-reference files
 
 | File | Purpose |
 |---|---|
-| `full-project-reference.md` | Detailed full-series reference for Projects 1-19 from the earlier project-set root, carried forward with the latest v1.0.3 refinements. |
-| `master-repo-README.md` | Earlier master/root README draft for the full series. |
-| `simple-website-series-full-reference.md` | Refined full-series reference draft from the earlier project-set root. |
+| [`series-reference.md`](series-reference.md) | Curated source-reference overview for the full Simple Website Examples series. This consolidates the useful material from the earlier full-project, series-reference, and master README source files. |
 
 ## Reusable templates
 
-The reusable README template was moved out of `docs/source-reference/` and into `docs/templates/` in `v1.1.1` because it is an active reusable template, not a preserved source-reference document.
+The reusable README template was moved out of `docs/source-reference/` and into `docs/templates/` in `v1.1.1` because it is an active reusable template, not preserved source-reference material.
 
 | File | Purpose |
 |---|---|
 | [`../templates/README-template.md`](../templates/README-template.md) | Template used for per-project README structure. |
 
-## Original Project 19 reference files
+## Archive
 
-These files preserve the earlier Project 19 documentation material after the documentation project was incorporated into the `simple-website-examples` hub repository.
+Older source-reference files are preserved under:
 
-| File | Purpose |
+```text
+archive/
+```
+
+| Folder | Purpose |
 |---|---|
-| `original-project-19-README.md` | Earlier README content from the former Project 19 documentation folder. |
-| `original-project-19-file-structure-reference.md` | Earlier file-structure reference from the former Project 19 documentation folder. |
-| `original-project-19-glossary.md` | Earlier glossary from the former Project 19 documentation folder. |
-| `original-project-19-learning-path.md` | Earlier learning-path reference from the former Project 19 documentation folder. |
-| `original-project-19-project-summary.md` | Earlier project summary from the former Project 19 documentation folder. |
+| [`archive/series-reference-sources/`](archive/series-reference-sources/) | Earlier full-series reference source files that were consolidated into `series-reference.md`. |
+| [`archive/original-project-19/`](archive/original-project-19/) | Earlier Project 19 documentation files preserved after Project 19 was incorporated into the hub repo. |
 
 ## Notes
 
-These documents are retained as source/reference material. Some content overlaps conceptually with the active hub README and the active documentation under `docs/`, but the files are not exact duplicates.
+Archived documents may contain older project names, older repository-name patterns, placeholder links, or wording that has been superseded by the active documentation.
 
-The active documentation should be treated as the primary current documentation. The source-reference files should be treated as preserved historical/reference material unless a later cleanup explicitly merges or replaces them.
+Use the active documentation and `series-reference.md` for current guidance. Use the archive only when you need historical context or want to trace how the documentation evolved.

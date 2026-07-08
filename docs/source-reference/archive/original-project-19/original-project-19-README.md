@@ -3,9 +3,11 @@
 Start with Project 1 and move forward in order. Each project builds on the previous one and introduces one new concept at a time.
 
 ## What this is
+
 A beginner-friendly series of small website projects designed to teach core web development concepts step by step.
 
 ## How to use this series
+
 - Follow projects in order (recommended)
 - Or jump to specific topics if needed
 - Each project builds incrementally
@@ -13,7 +15,7 @@ A beginner-friendly series of small website projects designed to teach core web 
 ## Project Overview
 
 | Project | Name | Main Concept |
-|--------|------|-------------|
+|---|---|---|
 | 1 | First Web Page | Basic HTML structure |
 | 2 | Basic Website | Metadata, robots, sitemap |
 | 3 | Website Assets | CSS and JavaScript basics |
@@ -34,6 +36,7 @@ A beginner-friendly series of small website projects designed to teach core web 
 | 18 | Media and Embeds | Audio, video, iframe |
 
 ## What you will learn
+
 - HTML structure
 - CSS styling
 - JavaScript basics
@@ -43,12 +46,14 @@ A beginner-friendly series of small website projects designed to teach core web 
 - Forms
 
 ## What this series does NOT cover
+
 - Frameworks
 - Backend development
 - Build tools
 - Advanced SEO
 
 ## What to do next
+
 - Build your own website
 - Explore frameworks
 - Learn backend basics
