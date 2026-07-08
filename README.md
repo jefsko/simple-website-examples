@@ -52,3 +52,20 @@ A beginner-friendly series of small website projects designed to teach core web 
 - Build your own website
 - Explore frameworks
 - Learn backend basics
+
+
+## Additional source reference documents
+
+Version `v1.0.1` adds preserved source reference documents under:
+
+```text
+docs/source-reference/
+```
+
+These documents originally existed at the project-set root outside the individual repository folders. They are retained in the documentation repo so the earlier project planning, README template, and full-series reference material are not lost.
+
+See:
+
+```text
+docs/source-reference/README.md
+```
