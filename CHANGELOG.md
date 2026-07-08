@@ -1,6 +1,41 @@
 # Changelog
 
-All notable changes to this documentation repo are documented in this file.
+All notable changes to the Simple Website Examples hub are documented in this file.
+
+This project follows semantic-style version numbers such as `v1.0.0`.
+
+## [1.1.0] - 2026-07-07
+
+### Added
+- Added repository linking guidance under `docs/repository-linking.md`.
+- Added GitHub repository description guidance under `docs/repository-descriptions.md`.
+- Added naming-history documentation under `docs/naming-history.md`.
+- Added preserved original Project 19 documentation files under `docs/source-reference/` with `original-project-19-` filenames.
+- Added a source-reference index under `docs/source-reference/README.md`.
+
+### Changed
+- Standardized the final published repository naming pattern to `simple-website-##-topic`, using zero-padded example numbers for predictable sorting.
+- Updated recommended website example repository names from `simple-website-example-##-topic` to `simple-website-##-topic` for shorter, simpler repo names.
+- Updated cross-repo README links to use the simplified final GitHub repository names under `jefsko`.
+- Reorganized the active supporting documentation under `docs/` while keeping the root focused on `README.md` and `CHANGELOG.md`.
+- Carried forward the latest `v1.0.3` full project reference under `docs/source-reference/full-project-reference.md`.
+- Kept the unversioned `full-project-reference.md` filename for the source-reference document.
+
+### Reorganized
+- Treated the former documentation-only Project 19 repository/folder, `simple-website-19-project-documentation`, as the series hub repository: `simple-website-examples`.
+- Kept Examples 01 through 18 as the website-code examples and kept the former Project 19 documentation content inside the hub under `docs/` and `docs/source-reference/`.
+
+### Historical naming note
+- Earlier pre-production snapshots used the `project-N-topic` folder pattern.
+- The `v1.0.0` production snapshot moved to the `simple-website-N-topic` pattern.
+- The `v1.1.0` update finalized the zero-padded `simple-website-##-topic` pattern for the website examples and made `simple-website-examples` the hub repository.
+- The naming history is documented in `docs/naming-history.md`.
+
+### Notes
+- Examples 01 through 18 remain the website-code examples.
+- Website source code for Examples 01 through 18 is not intentionally changed by this repository naming/documentation update.
+- The former Project 19 documentation remains incorporated into this hub repository as documentation and preserved source-reference material.
+- Some source-reference documents overlap conceptually with active documentation, but they are retained for now rather than merged so no prior reference material is lost.
 
 ## [1.0.3] - 2026-07-07
 
@@ -11,7 +46,7 @@ All notable changes to this documentation repo are documented in this file.
 ## [1.0.2] - 2026-07-07
 
 ### Fixed
-- Corrected the source-reference index to point to `full-project-reference.md` instead of `full-project-referencev1.0.md`.
+- Corrected the source-reference index to point to `full-project-reference.md`.
 
 ## [1.0.1] - 2026-07-07
 
